@@ -32,7 +32,7 @@ function App() {
           </tr>
           <tr>
             <td>Virtual Reality Headset</td>
-            <td>10</td>
+            <td>5</td>
             <td>Virtual Tech Inc., San Francisco</td>
           </tr>
           <tr>
