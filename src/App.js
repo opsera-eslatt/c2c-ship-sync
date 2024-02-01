@@ -4,22 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 8px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-      </style>
-      
+    <div className="App">      
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Fulfillment - Ship Sync</h1>
