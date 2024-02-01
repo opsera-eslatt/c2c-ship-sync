@@ -26,7 +26,7 @@ function App() {
             <td>Blockchain Ledger</td>
             <td>5</td>
             <td>Crypto Finance Ltd., New York</td>
-            <td>2024-01-18</td>
+            <td>2024-01-11</td>
           </tr>
           <tr>
             <td>AI-Powered Chatbot</td>
