@@ -36,7 +36,7 @@ function App() {
           </tr>
           <tr>
             <td>Crypto Mining Rig</td>
-            <td>15</td>
+            <td>12</td>
             <td>Blockchain Mining Corp., Hong Kong</td>
             <td>2024-01-22</td>
           </tr>
