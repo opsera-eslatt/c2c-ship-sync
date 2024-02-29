@@ -32,7 +32,7 @@ function App() {
             <td>AI-Powered Chatbot</td>
             <td>20</td>
             <td>Customer Solutions LLC, London</td>
-            <td>2024-01-20</td>
+            <td>2024-02-29</td>
           </tr>
           <tr>
             <td>Crypto Mining Rig</td>
