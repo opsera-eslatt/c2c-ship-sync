@@ -44,7 +44,7 @@ function App() {
             <td>Smart Office Printer</td>
             <td>8</td>
             <td>Global Enterprises Ltd., Dubai</td>
-            <td>2024-01-25</td>
+            <td>2024-03-01</td>
           </tr>
         </table>
       </header>
