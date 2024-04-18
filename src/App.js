@@ -20,7 +20,7 @@ function App() {
             <td>Virtual Reality Headset</td>
             <td>10</td>
             <td>Virtual Tech Inc., San Francisco</td>
-            <td>2024-02-27</td>
+            <td>2024-04-18</td>
           </tr>
           <tr>
             <td>Blockchain Ledger</td>
